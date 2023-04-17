@@ -1,2 +1,2 @@
 # Eaglercraft Combined
-A combination of PiClient, Resent Client, and Vanilla 1.5.2
+A combination of PiClient, Resent Client, Dragon X Client, and Vanilla 1.5.2
